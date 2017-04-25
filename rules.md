@@ -2,7 +2,7 @@
 
 | Version    | Status     | Last Updated           |
 | ---------- | ---------- | ---------------------- |
-| 2017-rc.02 | DRAFT      | 9 April 2017           |
+| 2017-rc.02 | ACTIVE     | 9 April 2017           |
 
 ### Introduction
 
