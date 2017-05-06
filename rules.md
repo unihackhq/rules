@@ -2,12 +2,13 @@
 
 | Version    | Status     | Last Updated           |
 | ---------- | ---------- | ---------------------- |
-| 2017-rc.02 | ACTIVE     | 9 April 2017           |
+| 2017-rc.03 | ACTIVE     | 6 May 2017             |
 
 ### Introduction
 
 All UNIHACK competitors must follow the following rules when participating in
-any UNIHACK event.
+any UNIHACK event. Unless specified for a particular location, all rules apply to
+both Melbourne and Sydney.
 
 Not all UNIHACK Mini events will use these rules as organisers can choose to use
 these or make their own rules. UNIHACK Mini organisers making alterations to these
@@ -18,15 +19,17 @@ rules, please submit an issue here.
 
 ### Section 1: Eligibility
 
-1.  Teams can have up to six people; but must have a minimum number of four people.
-    Teams with two or three will be asked to merge. The Organisers can relax this
-    restriction at their discretion.
+1.  Teams can have up to six people.
 
 2.  Each member of a team must be a student studying at an undergraduate, honours,
     or postgraduate course at an accredited university or TAFE college in Australia
     or New Zealand.
 
 3.  Teams cannot have remote participants.
+
+4.  Melbourne only: teams must have a minimum number of four people. Teams with two
+    or three people will be asked to merge. The Organisers reserve the right to
+    relax this restriction at their discretion.
 
 ### Section 2: Projects
 
