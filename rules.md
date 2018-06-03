@@ -2,7 +2,7 @@
 
 | Version    | Status     | Last Updated           |
 | ---------- | ---------- | ---------------------- |
-| 2017-rc.03 | ACTIVE     | 6 May 2017             |
+| 2018-rc.04 | ACTIVE     | 3 June 2018            |
 
 ### Introduction
 
@@ -21,9 +21,8 @@ rules, please submit an issue here.
 
 1.  Teams can have up to six people.
 
-2.  Each member of a team must be a student studying at an undergraduate, honours,
-    or postgraduate course at an accredited university or TAFE college in Australia
-    or New Zealand.
+2.  Each member of a team must be 18 years or older, and be a student studying at
+    an accredited university or TAFE college in Australia or New Zealand.
 
 3.  Teams cannot have remote participants.
 
