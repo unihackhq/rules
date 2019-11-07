@@ -2,38 +2,33 @@
 
 | Version    | Status     | Last Updated           |
 | ---------- | ---------- | ---------------------- |
-| 2018-rc.04 | ACTIVE     | 3 June 2018            |
+| 2019-rc.01 | ACTIVE     | November 7, 2019       |
 
 ### Introduction
 
 All UNIHACK competitors must follow the following rules when participating in
-any UNIHACK event. Unless specified for a particular location, all rules apply to
-both Melbourne and Sydney.
-
-Not all UNIHACK Mini events will use these rules as organisers can choose to use
-these or make their own rules. UNIHACK Mini organisers making alterations to these
-rules should create a fork and edit the rules as they see fit.
+any UNIHACK event.
 
 If you have a suggestion, need clarification, or have any questions about the
 rules, please submit an issue here.
 
 ### Section 1: Eligibility
 
-1.  Teams can have up to six people.
+1.  Teams must comprise of four to six people.
+
+    Teams with less than the required number will be asked to merge. The Organisers 
+    reserve the right to relax this restriction  at their discretion.
 
 2.  Each member of a team must be 18 years or older, and be a student studying at
     an accredited university or TAFE college in Australia or New Zealand.
 
 3.  Teams cannot have remote participants.
 
-4.  Melbourne only: teams must have a minimum number of four people. Teams with two
-    or three people will be asked to merge. The Organisers reserve the right to
-    relax this restriction at their discretion.
 
 ### Section 2: Projects
 
 1.  Teams have 24 hours to build a prototype. There are no restrictions on what
-    form it should take, programming languages or devices.
+    form it should take, programming languages, or devices.
 
 2.  You must build the project during the allocated time and at the venue. If, for
     whatever reason, the team is unable to work at the venue, they may ask for a
