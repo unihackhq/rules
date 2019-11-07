@@ -17,7 +17,7 @@ rules, please submit an issue here.
 1.  Teams must comprise of four to six people.
 
     Teams with less than the required number will be asked to merge. The Organisers 
-    reserve the right to relax this restriction  at their discretion.
+    reserve the right to relax this restriction at their discretion.
 
 2.  Each member of a team must be 18 years or older, and be a student studying at
     an accredited university or TAFE college in Australia or New Zealand.
