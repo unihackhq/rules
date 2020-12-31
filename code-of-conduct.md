@@ -10,7 +10,7 @@ judges, mentors, organisers, volunteers, guests, observers and any other person
 at a UNIHACK event, or any online interactions in relation to a UNIHACK event
 (e.g. Discord, Slack, the UNIHACKers Facebook Group).
 
-**TL;DR.** Be nice. Be supportive. Be friendly. Have fun.
+> 📌 **TL;DR.** Be nice. Be supportive. Be friendly. Have fun.
 
 ### Making a safe event
 

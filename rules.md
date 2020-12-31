@@ -2,11 +2,9 @@
 
 ![v2021-rc.01](https://img.shields.io/badge/version-2021--rc.01-blue?style=for-the-badge)
 
-### Introduction
-
-> ⚠️ All UNIHACK competitors must follow the following rules when participating in
-> any UNIHACK event. Please read them carefully. If you have any questions or concerns
-> please raise them with a UNIHACK organiser.
+⚠️ All UNIHACK competitors must follow the following rules when participating in
+any UNIHACK event. Please read them carefully. If you have any questions or concerns
+please raise them with a UNIHACK organiser.
 
 ### Section 1: Eligibility
 
@@ -19,8 +17,8 @@
     an accredited university or TAFE college in Australia or New Zealand as of 2020
     or 2021.
 
-    If you were studying in 2020 and have since graduated, **you are still eligible**
-    to compete at UNIHACK 2021.
+    > 📆 If you were studying in 2020 and have since graduated, **you are still eligible**
+    > to compete at UNIHACK 2021.
 
 ### Section 2: Projects
 
