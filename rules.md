@@ -1,8 +1,6 @@
 ## UNIHACK Competition Rules
 
-| Version    | Status | Last Updated      |
-| ---------- | ------ | ----------------- |
-| 2021-rc.01 | ACTIVE | December 31, 2020 |
+![v2021-rc.01](https://img.shields.io/badge/version-2021--rc.01-blue?style=for-the-badge)
 
 ### Introduction
 
@@ -62,9 +60,11 @@
 1.  The Organisers reserve the right to ask teams to present their code for review if
     they suspect their project or prototype breaches the Competition Rules.
 
-1.  A breach of the Competition Rules will result in you and/or your team
+2.  A breach of the Competition Rules will result in you and/or your team
     being disqualified from the competition. This may also include you and/or your
     team being removed from the venue.
 
-1.  Repeated breaches or a serious breach may result in you and/or your team being
+3.  Repeated breaches or a serious breach may result in you and/or your team being
     banned from competing in any UNIHACK competition in the future.
+
+_Last Updated: 31 December 2020_

@@ -1,8 +1,6 @@
 # Code of Conduct
 
-| Version    | Status | Last Updated      |
-| ---------- | ------ | ----------------- |
-| 2021-rc.01 | ACTIVE | December 31, 2020 |
+![v2021-rc.01](https://img.shields.io/badge/version-2021--rc.01-blue?style=for-the-badge)
 
 **We believe that every single person has the right to hack in a safe and
 welcoming environment.**
@@ -85,6 +83,8 @@ The organisers may take any action it deems appropriate to the situation. This
 includes warning the offender or expulsion from the event with no eligibility
 for a refund of any type. Severe or repeated violations will result in a
 lifetime ban and/or reporting the incident to law enforcement.
+
+_Last Updated: 31 December 2020_
 
 [facebook]: http://facebook.com/unihackmelb
 [twitter]: http://twitter.com/unihackmelb
