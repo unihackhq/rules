@@ -1,78 +1,91 @@
 # Code of Conduct
 
-| Version    | Last Updated           |
-| ---------- | ---------------------- |
-| v17.01     | 25 March 2017          |
+| Version    | Status | Last Updated      |
+| ---------- | ------ | ----------------- |
+| 2021-rc.01 | ACTIVE | December 31, 2020 |
 
-UNIHACK Melbourne follows the [Hack Code of Conduct](http://hackcodeofconduct.org/).
+**We believe that every single person has the right to hack in a safe and
+welcoming environment.**
 
-All attendees, sponsors, partners, volunteers and staff at our hackathon are
-required to agree with the following code of conduct. Organisers will enforce
-this code throughout the event. We are expecting cooperation from all
-participants to help ensure a safe environment for everybody.
+This is why we have a code of conduct that applies to participants, sponsors,
+judges, mentors, organisers, volunteers, guests, observers and any other person
+at a UNIHACK event, or any online interactions in relation to a UNIHACK event
+(e.g. Discord, Slack, the UNIHACKers Facebook Group).
 
-## The Quick Version
+**TL;DR.** Be nice. Be supportive. Be friendly. Have fun.
 
-Our hackathon is dedicated to providing a harassment-free experience for
-everyone, regardless of gender, gender identity and expression, age, sexual
-orientation, disability, physical appearance, body size, race, ethnicity,
-nationality, religion, previous hackathon attendance or computing experience (or
-lack of any of the aforementioned). We do not tolerate harassment of hackathon
-participants in any form. Sexual language and imagery is not appropriate at
-any hackathon venue, including hacks, talks, workshops, parties, social media
-and other online media. Hackathon participants violating these rules may be
-sanctioned or expelled from the hackathon without a refund (if applicable) at
-the discretion of the hackathon organisers.
+### Making a safe event
 
-## The Less Quick Version
+**We do not tolerate harassment.**
 
-Harassment includes offensive verbal comments related to gender, gender identity
- and expression, age, sexual orientation, disability, physical appearance, body
- size, race, ethnicity, nationality, or religion, sexual images in public spaces,
- deliberate intimidation, stalking, following, photography or audio/video
- recording against reasonable consent, sustained disruption of talks or other
- events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes but is not limited to:
 
-Photography is encouraged, but other participants must be given a reasonable
-chance to opt out from being photographed. If they object to the taking of their
-photograph, comply with their request. It is inappropriate to take photographs
-in contexts where people have a reasonable expectation of privacy (in bathrooms
-or where participants are sleeping).
+- offensive verbal or written comments related to gender, age, sexual orientation,
+  disability, physical appearance, body size, race, religion, social class,
+  economic status, veteran status, or technology choices;
+- use of sexual language or imagery;
+- deliberate intimidation, stalking or following;
+- harassing photography or recording;
+- sustained disruption of talks or other events;
+- inappropriate physical contact;
+- and, unwelcome sexual attention.
 
-Participants asked to stop any harassing behaviour are expected to comply
-immediately.
+If what you’re doing is making someone feel uncomfortable, that counts as
+harassment and is enough reason to stop doing it.
+
+**If you are asked to stop any harassing behaviour, you must comply immediately.**
 
 As this is a hackathon, we like to explicitly note that the hacks created at our
-hackathon are equally subject to the anti-harassment policy.
+hackathon are equally subject to the Code of Conduct.
 
-Sponsors and partners are also subject to the anti-harassment policy. In
-particular, sponsors should not use sexualised images, activities, or other
-material. Sponsor representatives (including volunteers) should not use
-sexualised clothing/uniforms/costumes, or otherwise create a sexualised
-environment.
+We also like to explicitly note that all attendees - including sponsors - should
+not create a sexualised environment. This includes a ban on sexualised
+clothing/uniforms/costumes for sponsor representatives. All attendees should not
+use sexualised images, activities, or other material in their hacks or during
+the event.
 
-If you are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact a member of hackathon staff immediately.
+### Photography
 
-Hackathon staff will be happy to help participants contact any local security or
-local law enforcement, provide escorts, or otherwise assist those experiencing
-harassment to feel safe for the duration of the hackathon. We value your
-attendance.
+**We encourage photography to be taken at our events, with consent.**
 
-If a participant engages in harassing behavior, the hackathon organisers may
-take any action they deem appropriate. This includes warning the offender,
-expulsion from the hackathon with no refund (if applicable), or reporting their
-behaviour to local law enforcement.
+You must give a reasonable chance for participants to opt out from being
+photographed. If a person objects to their photo being taken, then you must
+comply with that request.
 
-We expect participants to follow these rules at hackathon and workshop venues
-and hackathon-related social events.
+It is inappropriate to take photographs of people where they have a reasonable
+expectation of privacy. This includes, but not limited to, in bathrooms or where
+participants are sleeping.
 
-## Need Help?
+### Reporting incidents
 
-If you witness or experience any transgressions of this Code of Conduct at
-UNIHACK, see a volunteer or one of the organisers at the venue. Alternatively,
-you are free to [email us](mailto:team@unihack.net), call us, or private message
-us on [Facebook](http://facebook.com/unihackmelb) or
-[Twitter](http://twitter.com/unihackmelb).
+If you ever feel uncomfortable, witness someone else being harassed, or think
+there may be a potential violation of the code of conduct, please report it
+immediately.
 
-All reporters have the right to remain anonymous.
+All reporters have the right to remain anonymous when reporting.
+
+All incidents should be reported using one of the following methods below:
+
+- Directly message the UNIHACK Melbourne social media accounts on
+  [Facebook][facebook] or [Twitter][twitter]
+
+- Email to [team@unihack.net][email]
+
+### If you violate the Code of Conduct...
+
+If an organiser has approached you about an incident that has been determined to
+be a Code of Conduct violation, you must:
+
+- listen to the complaint with an open mind;
+- not be dismissive of the complainant;
+- understand any advice given on how to act in future;
+- and, comply with the directions of the organisers.
+
+The organisers may take any action it deems appropriate to the situation. This
+includes warning the offender or expulsion from the event with no eligibility
+for a refund of any type. Severe or repeated violations will result in a
+lifetime ban and/or reporting the incident to law enforcement.
+
+[facebook]: http://facebook.com/unihackmelb
+[twitter]: http://twitter.com/unihackmelb
+[email]: team@unihack.net
