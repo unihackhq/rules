@@ -1,6 +1,6 @@
 ## UNIHACK Competition Rules
 
-![v2021-rc.01](https://img.shields.io/badge/version-2021--rc.01-blue?style=for-the-badge)
+![v2021-rc.02](https://img.shields.io/badge/version-2021--rc.02-blue?style=for-the-badge)
 
 ⚠️ All UNIHACK competitors must follow the following rules when participating in
 any UNIHACK event. Please read them carefully. If you have any questions or concerns
@@ -13,9 +13,12 @@ please raise them with a UNIHACK organiser.
     Teams with less than the required number will be asked to merge. The Organisers
     reserve the right to relax this restriction at their discretion.
 
-2.  Each member of a team must be 18 years or older, and be a student studying at
-    an accredited university or TAFE college in Australia or New Zealand as of 2020
-    or 2021.
+2.  Each member of a team must be 18 years or older, and be either:
+
+    - a student studying at an accredited university or TAFE college in Australia or 
+      New Zealand as of 2020 or 2021; 
+      
+    - or, a university student currently residing in Australia or New Zealand.
 
     > 📆 If you were studying in 2020 and have since graduated, **you are still eligible**
     > to compete at UNIHACK 2021.
