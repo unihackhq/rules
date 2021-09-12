@@ -1,6 +1,6 @@
 ## UNIHACK Competition Rules
 
-![v2021-rc.02](https://img.shields.io/badge/version-2021--rc.02-blue?style=for-the-badge)
+![v2021-rc.03](https://img.shields.io/badge/version-2021--rc.03-blue?style=for-the-badge)
 
 ⚠️ All UNIHACK competitors must follow the following rules when participating in
 any UNIHACK event. Please read them carefully. If you have any questions or concerns
@@ -8,25 +8,25 @@ please raise them with a UNIHACK organiser.
 
 ### Section 1: Eligibility
 
-1.  Teams must comprise of four to six people.
+1.  Teams must comprise of four to six people. Teams with less than the required number
+    will be asked to merge.
 
-    Teams with less than the required number will be asked to merge. The Organisers
-    reserve the right to relax this restriction at their discretion.
+    > The Organisers reserve the right to relax this restriction at their discretion.
 
 2.  Each member of a team must be 18 years or older, and be either:
 
-    - a student studying at an accredited university or TAFE college in Australia or 
-      New Zealand as of 2020 or 2021; 
-      
+    - a student studying at an accredited university or TAFE college in Australia or
+      New Zealand at the time of the event;
+
     - or, a university student currently residing in Australia or New Zealand.
 
-    > 📆 If you were studying in 2020 and have since graduated, **you are still eligible**
-    > to compete at UNIHACK 2021.
+    > If you have completed your studies but have not had your graduation ceremony yet,
+    > **you are still eligible** to compete at UNIHACK.
 
 ### Section 2: Projects
 
-1.  Teams have 48 hours to build a prototype. There are no restrictions on what
-    form it should take, programming languages, or devices.
+1.  Teams have 48 hours to build at least a prototype. There are no restrictions
+    on what form it should take, programming languages, or devices.
 
 2.  You must build the project during the allocated time.
 
@@ -46,8 +46,8 @@ please raise them with a UNIHACK organiser.
 
 ### Section 3: Safety
 
-1.  All competitors agree to follow the Code of Conduct and act in an appropriate
-    manner.
+1.  All competitors agree to follow the [Code of Conduct](code-of-conduct.md) and
+    act in an appropriate manner.
 
 2.  If you are asked to stop by the organisers, you are are expected to comply
     immediately.
@@ -68,4 +68,4 @@ please raise them with a UNIHACK organiser.
 3.  Repeated breaches or a serious breach may result in you and/or your team being
     banned from competing in any UNIHACK competition in the future.
 
-_Last Updated: 31 December 2020_
+_Last Updated: 12 September 2021_
