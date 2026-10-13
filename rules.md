@@ -18,8 +18,8 @@ please raise them with a UNIHACK Organiser.
 
     - or, a university student currently residing in Australia or New Zealand.
 
-3.  You are still considered eligible if you have completed your studies but not
-    attended your graduation ceremony.
+3.  You are still considered eligible if you have completed your studies, but have
+    not attended your graduation ceremony at the time of the UNIHACK closing ceremony.
 
 4.  The Organizers reserve the right to modify an individual team's minimum and/or 
     maximum number of members at their discretion. 
