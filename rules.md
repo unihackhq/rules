@@ -83,7 +83,7 @@ leverage them.
     talking to the organizers, judges, and other people.
 
 3.  You are forbidden to use AI for the following use cases:
-    a.  replacing, cloning or impersonating someone's voice
+    a.  replacing, cloning or impersonating any part of somebody's likeness, including but not limited to voice, appearance, or personality
     b.  as a substitute for demonstrating your project in action
     c.  to circumvent or breach someone else's copyright, trademark, or any license that
         you do not validly hold.
