@@ -50,7 +50,8 @@ please raise them with a UNIHACK Organiser.
     submission.
 
 5.  Any code must be published in a repository that is publicly accessible. You must
-    provide this link in your submission. 
+    provide this link in your submission. This repository must not require access or permission
+    to be granted (private GitHub repositories will not be accepted).
 
 6.  You must submit a three minute video ("pitch video") that includes a demonstration 
     of your project in action. This demonstration must be done by a human, and not 
