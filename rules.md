@@ -67,7 +67,7 @@ please raise them with a UNIHACK Organiser.
 
 9.  Teams cannot modify any part of their codebase, unless the team has identified
     a security issue or a show-stopping bug/issue that needs to be rectified. New 
-    features or large changes are not allowed.
+    features or changes that might substantively affect judging outcomes are not allowed.
 
 ### Section 3: AI and Code Gen
 
