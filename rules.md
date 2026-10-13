@@ -26,7 +26,8 @@ please raise them with a UNIHACK Organiser.
     
     If a team contains more than six people, UNIHACK (or its sponsors and affiliates) 
     will only facilitate prizes for six people in the team. Additional members will 
-    not receive any prize or reward.
+    not receive any prize or reward. Teams will be expected to independently handle the
+    allocation of prizes between their members, in this case.
 
 ### Section 2: Projects and Submissions
 
