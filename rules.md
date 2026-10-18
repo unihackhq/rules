@@ -68,8 +68,7 @@ AI and large language models have dramatically impacted how people create applic
     b.  as a substitute for demonstrating your project in action,
     c.  to circumvent or breach someone else's copyright, trademark, or any license that you do not validly hold.
 
-4. If an AI provider has a text-to-speech service, you can only use one of the preset voices
-    that it offers.
+4. If an AI provider has a text-to-speech service, you can only use one of the preset voices that it offers.
 
 ## Section 4: Safety and Conduct
 
