@@ -1,71 +1,102 @@
-## UNIHACK Competition Rules
+# UNIHACK Competition Rules
 
-![v2021-rc.03](https://img.shields.io/badge/version-2021--rc.03-blue?style=for-the-badge)
+**VERSION 2027-rc.02**
 
-⚠️ All UNIHACK competitors must follow the following rules when participating in
-any UNIHACK event. Please read them carefully. If you have any questions or concerns
-please raise them with a UNIHACK organiser.
+## Preamble
 
-### Section 1: Eligibility
+Put simply, the Competition Rules exists so that UNIHACK is:
 
-1.  Teams must comprise of four to six people. Teams with less than the required number
-    will be asked to merge.
+- fair and transparent competition for those who participate;
+- and, a safe, inclusive and welcoming environment for all attendees, including our organisers, mentors, judges, volunteers, sponsors, and other guests.
 
-    > The Organisers reserve the right to relax this restriction at their discretion.
+All participants must read and follow these rules when participating in any UNIHACK event.
 
-2.  Each member of a team must be 18 years or older, and be either:
+We do on occasion, and at our discretion, update the Competition Rules to ensure that UNIHACK remains fair, transparent, safe, inclusive and welcoming to all participants.
 
-    - a student studying at an accredited university or TAFE college in Australia or
-      New Zealand at the time of the event;
+If you have any questions or concerns please raise them with a UNIHACK Organiser.
+
+## Section 1: Eligibility
+
+1. You can only compete as a team. Teams must comprise of four to six people. Teams with less than the required number will be asked to merge.
+
+2. Each member of a team must be 18 years or older, and be either:
+
+    - a student studying at an accredited university or TAFE college in Australia or New Zealand at the time of the event;
 
     - or, a university student currently residing in Australia or New Zealand.
 
-    > If you have completed your studies but have not had your graduation ceremony yet,
-    > **you are still eligible** to compete at UNIHACK.
+3. You are still considered eligible if you have completed your studies, but have not attended your graduation ceremony at the time of the UNIHACK closing ceremony.
 
-### Section 2: Projects
+4. The Organisers reserve the right to modify an individual team's minimum and/or maximum number of members at their discretion.
 
-1.  Teams have 48 hours to build at least a prototype. There are no restrictions
-    on what form it should take, programming languages, or devices.
+    If a team contains more than six people, UNIHACK (or its sponsors and affiliates) will only facilitate prizes for six people in the team. Additional members will not receive any prize or reward. Teams will be expected to independently handle the allocation of prizes between their members, in this case.
 
-2.  You must build the project during the allocated time.
+## Section 2: Submissions
 
-3.  Any code must be published in a repository that is publicly accessible. You must
-    provide this link in your submission. Any part of your submission must be up for
-    the entire length of the judging process.
+1. You must build the project during the allocated time. There are no restrictions on what form it should take, programming languages, or devices.
 
-4.  Teams must not work on any part of an existing project during the competition.
+2. Teams are allowed to plan and research on potential ideas before the competition.
 
-5.  Teams must not start on any development or design work before the competition.
-    This includes, but not limited to, any code, graphics, audio, and 3D design work.
+3. Teams must not start on any development or design work before the competition. This includes, but not limited to, any code, data wrangling, graphics, audio, and 3D design work.
 
-6.  Any third-party material used must be legally licensed and is available to the
-    public to download or buy. You may purchase materials, tools and equipment
-    for the competition, but at your own expense. You must list of all third-party
-    material and APIs, including anything that was purchased, in your submission.
+4. Teams must not work on any part of an existing project during the competition.
 
-### Section 3: Safety
+5. Any third-party material used must be legally licensed and is available to the public to download or buy.
 
-1.  All competitors agree to follow the [Code of Conduct](code-of-conduct.md) and
-    act in an appropriate manner.
+    You may purchase material, tools and equipment for the competition, but at your own expense. This includes AI tools used.
 
-2.  If you are asked to stop by the organisers, you are are expected to comply
-    immediately.
+    You must list all purchased and third-party materials, APIs, and tools in your submission.
 
-3.  Failure to follow the Code of Conduct will see the organisers take any action
-    that they see as appropriate. This may include calling in the police and reporting
-    the behaviour.
+6. Any code must be published in a repository that is publicly accessible. You must provide this link in your submission. This repository must not require access or permission to be granted (private GitHub repositories will not be accepted).
 
-### Section 4: Breaches
+7. You must submit a three minute video ("pitch video") that includes a demonstration of your project in action. This demonstration must be done by a human, and not generated by AI.
 
-1.  The Organisers reserve the right to ask teams to present their code for review if
-    they suspect their project or prototype breaches the Competition Rules.
+8. Any part of your submission must be up for the entire length of the judging process. This includes your code repository, pitch video, and any demo links provided as part of the submission process.
 
-2.  A breach of the Competition Rules will result in you and/or your team
-    being disqualified from the competition. This may also include you and/or your
-    team being removed from the venue.
+9. Teams cannot modify any part of their codebase, unless the team has identified a security issue or a show-stopping bug/issue that needs to be rectified. New features or changes that might substantively affect judging outcomes are not allowed.
 
-3.  Repeated breaches or a serious breach may result in you and/or your team being
-    banned from competing in any UNIHACK competition in the future.
+## Section 3: AI and Code Gen usage
 
-_Last Updated: 12 September 2021_
+AI and large language models have dramatically impacted how people create applications and write code. We encourage our community to learn about these technologies and leverage them.
+
+1. Unless otherwise forbidden, teams may use AI to assist them while building their submission; utilizing tools such as code completion, code generation, image generation, or other similar tools.
+
+2. You must be transparent about AI usage. This includes listing them as part of your third-party materials declaration, and answering questions when talking to the Organisers, judges, and other people.
+
+3. You are forbidden to use AI for the following use cases:
+    a.  replacing, cloning or impersonating any part of somebody's likeness, including but not limited to voice, appearance, or personality,
+    b.  as a substitute for demonstrating your project in action,
+    c.  to circumvent or breach someone else's copyright, trademark, or any license that you do not validly hold.
+
+4. If an AI provider has a text-to-speech service, you can only use one of the preset voices that it offers.
+
+## Section 4: Safety and Conduct
+
+1. All competitors agree to follow the [Code of Conduct](code-of-conduct.md) and act in an appropriate manner.
+
+    A breach of the Code of Conduct will be treated as a breach of the Competition Rules. Organisers may, at their discretion, take any action they see appropriate to remedy the situation.
+
+2. Participants must not make public accusations, reveal personal information ("doxx"), encouraging others to target another team ("brigading"), or create/participate in "witch hunts". Such actions can create a toxic environment and unfairly harm individuals, especially if any investigation finds no credible evidence of cheating.
+
+3. If you are asked to stop an action or behaviour by the Organisers, then you must stop. Failure to stop will be treated as a breach of the Competition Rules.
+
+## Section 5: Compliance and Sanctions
+
+1. Teams must ensure they remain complaint with the Competition Rules, including with any changes.
+
+2. The Organisers reserve the right to ask participants to present evidence if there is concerns about a submission breaches Section 2 or Section 3 of the Competition Rules. This includes asking to see all code produced during the event.
+
+3. Any decision made as part of an investigation made by the Organisers is considered final.
+
+4. The Organisers may, at their discretion, issue any form of sanction that they deem appropriate to remedy any breach of the Competition Rules and/or the Code of Conduct.
+
+    This includes, but not limited to:
+
+    a. disqualification of you and your team
+    b. being removed from any physical premises
+    c. referral to law enforcement and/or student conduct body
+    d. issuing a guidance note to judges that may affect how an entry is evaluated
+
+5. Serious or repeated breaches may result in you and/or your team being permanently banned from UNIHACK.
+
+_Last Updated: 19 October 2026_
